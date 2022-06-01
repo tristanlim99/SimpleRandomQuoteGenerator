@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #e7accf;
+  color: #0066b2;
+}
+
+.container {
+  font-family: 'Bangers', cursive;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+
+.container h1 {
+  font-size: 3rem;
+}
+
+.container .quoteDisplay {
+  font-size: 3rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  padding: 1rem;
+  text-align: center;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.container button {
+  visibility: hidden;
+}
+/*# sourceMappingURL=style.css.map */
