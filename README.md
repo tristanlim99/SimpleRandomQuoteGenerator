@@ -1,4 +1,4 @@
-Just a simple momentum app clone
+Just a simple random quote generator
 
 Tech Stack
 * HTML
